@@ -1,5 +1,6 @@
-/nbproject/private/
+/nbproject/
 /trunk/protected/runtime/
 /trunk/assets/
 *.log
 /trunk/databases/
+/framework/
