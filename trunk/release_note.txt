@@ -1,0 +1,12 @@
+/*-----------------------------------------------------------------------------------
+ | release note for version control as well as it will help to know in which version |
+ | what changes has been done                                                        |
+ | format will be v0.0.0 dd-mm-yyyy                                                  |
+ |___________________________________________________________________________________*/
+
+ 
+ v1.0.1 05-apr-2016 >  system admin login panel as well as add users/organization
+ v1.0.2 09-apr-2016 >  organization admin login panel add employee,branches,courses,mode.heard_about
+ v1.0.3 09-apr-2016 >  employee login panel 
+ v1.0.4 13-apr-2016 >  new html integrated as well as enquiry-form create but not completely
+ v1.0.5 14-apr-2016 >  add enquiry done but not update and delete display 
